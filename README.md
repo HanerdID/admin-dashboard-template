@@ -150,4 +150,4 @@ Template ini sepenuhnya responsif dan bekerja dengan baik pada:
 
 ---
 
-Dibuat dengan ❤️ oleh [Your Name](https://github.com/yourusername)
+Dibuat dengan ❤️ oleh [HanerdID](https://github.com/HanerdID)
