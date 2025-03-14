@@ -22,6 +22,7 @@ import {
   Search,
   Trash,
   UserPlus,
+  Users,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
