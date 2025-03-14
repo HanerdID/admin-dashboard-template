@@ -19,12 +19,9 @@ import {
   ChevronDown,
   Download,
   MoreHorizontal,
-  Plus,
   Search,
-  Filter,
   Trash,
   UserPlus,
-  Users,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
@@ -196,7 +193,7 @@ const customers = [
 ];
 
 // Definisi kolom tabel
-export const columns: ColumnDef<(typeof customers)[0]>[] = [
+const columns: ColumnDef<(typeof customers)[0]>[] = [
   {
     id: "select",
     header: ({ table }) => (
